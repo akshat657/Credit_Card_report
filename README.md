@@ -10,7 +10,6 @@ To create a comprehensive weekly dashboard for credit card operations, providing
 - Track essential metrics:
   - **Transaction Volume**
   - **Revenue Trends**
-  - **Fraud Detection**
   - **Customer Metrics**
 
 📊 Interactive Visual Insights:
